@@ -1,4 +1,0 @@
-# csv: two dimentional list
-def save_csv(file_name, csv):
-    with open(file_name) as f:
-        
